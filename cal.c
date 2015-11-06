@@ -14,7 +14,6 @@ int sub(int a, int b)
 // jjajang
 int mult(int a, int b)
 {
-	printf("여자친구 사귀고 싶다\n");
 	return a * b;
 }
 
