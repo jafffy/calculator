@@ -22,6 +22,18 @@ int div(int a, int b)
 {
 }
 
+double MySqrt(double x)
+{
+}
+
+double MyPow(double x)
+{
+}
+
+double MyLog(double x)
+{
+}
+
 // Jaewon Choi
 int main()
 {
