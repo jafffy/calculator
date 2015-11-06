@@ -34,6 +34,11 @@ double MyLog(double x)
 {
 }
 
+double MyExp(double x)
+{
+	return exp(x);
+}
+
 // Jaewon Choi
 int main()
 {
@@ -41,6 +46,8 @@ int main()
 	printf("2 - 3 = %d\n", sub(2, 3));
 	printf("2 * 3 = %d\n", mult(2, 3));
 	printf("2 / 3 = %d\n", div(2, 3));
+
+	printf("exp(4) = %lf\n", MyExp(4));
 
 	return 0;
 }
