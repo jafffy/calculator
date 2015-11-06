@@ -8,6 +8,7 @@ int add(int a, int b)
 // youngmin
 int sub(int a, int b)
 {
+	return a - b;
 }
 
 // jjajang
